@@ -1,0 +1,7 @@
+# .gitignore 
+.env 
+firebase_service_account.json 
+*.exe 
+*.test 
+/tmp 
+/vendor 
