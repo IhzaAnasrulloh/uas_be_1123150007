@@ -87,7 +87,7 @@ uas_be_1123150007/
 - Simpan pada folder:
 
 ```bash
-/firebase_service_account.json
+firebase_service_account.json
 ```
 
 ### 2. MySQL
@@ -172,7 +172,7 @@ REDIS_PORT=6379
 
 JWT_SECRET=your-secret-key
 
-FIREBASE_CREDENTIALS=firebase/serviceAccountKey.json
+FIREBASE_CREDENTIALS=firebase_service_account.json
 
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
